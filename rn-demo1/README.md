@@ -4,7 +4,8 @@
 
 ## 运行
 
-yarn start
+1. yarn start
+2. 打开 `expo` 扫码即可
 
 ## 参考资料
 
